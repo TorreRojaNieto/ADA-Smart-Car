@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADA Smart Car", "ADA Smart Car.csproj", "{AB5585F2-F6DE-4A75-B61B-BB2A5BBCC3B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB5585F2-F6DE-4A75-B61B-BB2A5BBCC3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5585F2-F6DE-4A75-B61B-BB2A5BBCC3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5585F2-F6DE-4A75-B61B-BB2A5BBCC3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5585F2-F6DE-4A75-B61B-BB2A5BBCC3B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B831D15-331E-4C0F-8737-5905E47A78B0}
+	EndGlobalSection
+EndGlobal
